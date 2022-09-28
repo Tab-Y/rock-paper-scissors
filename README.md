@@ -1,21 +1,26 @@
-Instructions
-The completed application should meet the following criteria:
+# Rock-Paper-Scissors-Lizard-Spock
 
-As a user, I want to play Rock, Paper, Scissors against an automated opponent.
+## Description
+This project was an attempt to create a propt rock, paper, scissors game and develop some more skills and understanding
+of how JavaScript works. Through this project I have learned a little bit about the versitility of JavaScript and how
+there is a lot of different ways to use the same tools.
 
-As a user, I can enter R, P, or S to signify my choice of rock, paper, or scissors.
+## Table of Contents (Optional)
 
-As a user, I expect the computer to choose R, P, or S in return.
+n/a
 
-As a user, I want the option to play again whether I win or lose.
+## Installation
 
-As a user, I want to see my total wins, ties, and losses after each round.
+tab-y.github.io/rock-paper-scissors
 
-Specifications
-Must use the alert(), confirm(), and prompt() methods to collect user input and display information to the user.
+## Usage
 
-The computer's selection must be random to ensure a fair game.
+to play a game of rock paper scissors.
 
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
+## Credits
 
-How can you customize the appearance of the alert(), confirm(), and prompt() dialog boxes?
+n/a
+
+## License
+
+See license in repo.
